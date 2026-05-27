@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="authorbe_banner.png" alt="AUTHORBE Banner" width="100%">
+  <img src="banner.gif" alt="AUTHORBE Banner" width="100%">
 </p>
 
 <div align="center">
