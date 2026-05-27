@@ -25,12 +25,12 @@ I specialize in breaking down intricate problems, designing robust logic, and di
 
 ## 🛠️ Tech Stack & Ecosystem
 
-| Layer | Technologies & Tools |
-| :--- | :--- |
-| **Logic & Backend** | PHP, Laravel, Node.js, MySQL |
-| **Frontend & UI** | Tailwind CSS, JavaScript, Bootstrap |
-| **AI Integration** | Google AI Studio, Claude API, Prompt Engineering |
-| **DevOps & Tools** | Git/GitHub, Shared Hosting, Laragon |
+| Layer | Technologies & Tools | Key Focus |
+| :--- | :--- | :--- |
+| **Logic & Backend** | PHP (Procedural & Laravel), MySQL, SQL | Modular Architecture & DB Design |
+| **Frontend & UI** | JavaScript (AJAX/Fetch), Tailwind CSS, Bootstrap | Live Search & Dynamic Interface |
+| **AI Integration** | Claude API, Google AI Studio, Prompt Engineering | Logic Validation & Rapid Prototyping |
+| **System & Ops** | Git/GitHub, Composer, PWA (Manifest/SW), .env | Dependency & Environment Mgmt |
 
 ---
 
