@@ -1,6 +1,13 @@
-# Hi, I'm Muhammad Aji Sakha 👋
+<p align="center">
+  <img src="authorbe_banner.png" alt="AUTHORBE Banner" width="100%">
+</p>
 
+<div align="center">
+
+# Muhammad Aji Sakha 👋
 ### Problem Solver | AI Programming Logic | Continuous Learner
+
+</div>
 
 I code because I love building practical digital solutions that solve real-world problems for people. I don't focus on memorizing dense syntax—instead, I leverage AI as my high-speed execution partner while I focus heavily on system logic, database architecture, workflow efficiency, and modular structure.
 
