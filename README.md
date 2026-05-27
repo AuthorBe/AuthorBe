@@ -45,8 +45,20 @@ I treat Artificial Intelligence as an engineering multiplier. My core strengths 
 
 ---
 
+---
+
 <div align="center">
 
-📫 **Connect with me:** [Email](mailto:authorbe45@gmail.com)  |  [Portfolio](https://ajsk.vercel.app/)
+## 🤝 Let's Connect & Collaborate
+
+<p align="center">
+  <a href="mailto:authorbe45@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://ajsk.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-2EA043?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 </div>
