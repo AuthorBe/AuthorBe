@@ -4,22 +4,22 @@
 
 <div align="center">
 
-# Muhammad Aji Sakha 👋
-### Problem Solver | AI Programming Logic | Continuous Learner
+# Hi 👋 I'm Muhammad Aji <kbd>authorbe</kbd> 🚀
+### Logic Architect | AI Integrator | System Builder
 
 </div>
 
-I code because I love building practical digital solutions that solve real-world problems for people. I don't focus on memorizing dense syntax—instead, I leverage AI as my high-speed execution partner while I focus heavily on system logic, database architecture, workflow efficiency, and modular structure.
+I transform complex challenges into practical digital solutions. My approach bypasses the limitations of manual syntax memorization by leveraging AI as a high-speed execution partner. This allows me to focus intensely on what truly matters: **system logic, database architecture, workflow efficiency, and modular stability.**
 
-I don't claim to know everything, but I know exactly how to break down a complex problem, design the logic, and direct modern AI tools to build functional, production-ready software.
+I specialize in breaking down intricate problems, designing robust logic, and directing advanced AI tools to build functional, production-ready software that delivers real-world impact.
 
 ---
 
 ## 🚀 Technical Core & Philosophy
 
-* **Logic-First Development:** Proficient in designing robust application workflows and clean system architectures using PHP.
-* **AI Co-Piloting:** Expert in writing precise, context-rich technical prompts to drive LLMs for rapid prototyping and security auditing.
-* **Operational Impact:** Experienced in deploying live web applications used by organizations to automate daily operations.
+* **Logic-First Development:** Expert in architecting clean system structures and robust application workflows, primarily using the PHP ecosystem.
+* **AI Co-Piloting:** Specialist in engineering high-context technical prompts to drive LLMs for rapid prototyping, logic validation, and security auditing.
+* **Operational Excellence:** Proven experience in deploying live web applications that automate operations and solve organizational bottlenecks.
 
 ---
 
@@ -30,19 +30,23 @@ I don't claim to know everything, but I know exactly how to break down a complex
 | **Logic & Backend** | PHP, Laravel, Node.js, MySQL |
 | **Frontend & UI** | Tailwind CSS, JavaScript, Bootstrap |
 | **AI Integration** | Google AI Studio, Claude API, Prompt Engineering |
-| **DevOps** | Git/GitHub, Shared Hosting, Laragon |
+| **DevOps & Tools** | Git/GitHub, Shared Hosting, Laragon |
 
 ---
 
-## 🧠 My Approach to AI Programming
+## 🧠 The AI Programming Manifesto
 
 > "Code syntax is a commodity; system logic, structural architecture, and intent-driven prompting are the true assets."
 
-I treat AI as an engineering multiplier. My strength lies in:
-1. Orchestrating the "big picture" so AI generates cohesive, non-breaking code.
-2. Auditing AI outputs for security bugs and logic bottlenecks.
-3. Building tools that empower developers working under system constraints.
+I treat Artificial Intelligence as an engineering multiplier. My core strengths include:
+1.  **Architectural Orchestration:** Managing the "Big Picture" to ensure AI-generated components are cohesive and scalable.
+2.  **Output Auditing:** Rigorously validating AI outputs for logic bottlenecks and security vulnerabilities.
+3.  **System Optimization:** Building tools and workflows that empower development within tight system constraints.
 
 ---
 
-📫 **Connect with me:** | [Email](mailto:authorbe45@gmail.com)
+<div align="center">
+
+📫 **Connect with me:** [Email](mailto:authorbe45@gmail.com)  |  [Portfolio](https://ajsk.vercel.app/)
+
+</div>
