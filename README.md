@@ -6,12 +6,9 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║   Hi 👋  I'm Muhammad Aji  ·  authorbe  ·  🚀               ║
-║   Logic Architect  |  AI Integrator  |  System Builder       ║
-╚══════════════════════════════════════════════════════════════╝
-```
+# Hi 👋 I'm Muhammad Aji `authorbe` 🚀
+
+### Logic Architect · AI Integrator · System Builder
 
 </div>
 
@@ -35,14 +32,14 @@ I specialize in breaking down intricate problems, designing robust logic, and di
 
 <br>
 
-🔷 &nbsp;**Logic-First Development**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Expert in architecting clean system structures and robust application workflows, primarily using the PHP ecosystem.
+### 🔷 Logic-First Development
+Expert in architecting clean system structures and robust application workflows, primarily using the PHP ecosystem.
 
-🔷 &nbsp;**AI Co-Piloting**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Specialist in engineering high-context technical prompts to drive LLMs for rapid prototyping, logic validation, and security auditing.
+### 🔷 AI Co-Piloting
+Specialist in engineering high-context technical prompts to drive LLMs for rapid prototyping, logic validation, and security auditing.
 
-🔷 &nbsp;**Operational Excellence**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proven experience in deploying live web applications that automate operations and solve organizational bottlenecks.
+### 🔷 Operational Excellence
+Proven experience in deploying live web applications that automate operations and solve organizational bottlenecks.
 
 <br>
 
@@ -52,16 +49,27 @@ I specialize in breaking down intricate problems, designing robust logic, and di
 
 <br>
 
-<div align="center">
+**⚙️ Logic & Backend**
+`PHP (Procedural & Laravel)` `MySQL` `SQL`
+*Modular Architecture & DB Design*
 
-| Layer | Technologies & Tools | Key Focus |
-|:---|:---|:---|
-| **⚙️ Logic & Backend** | PHP (Procedural & Laravel), MySQL, SQL | Modular Architecture & DB Design |
-| **🎨 Frontend & UI** | JavaScript (AJAX/Fetch), Tailwind CSS, Bootstrap | Live Search & Dynamic Interface |
-| **🤖 AI Integration** | Claude API, Google AI Studio, Prompt Engineering | Logic Validation & Rapid Prototyping |
-| **🔧 System & Ops** | Git/GitHub, Composer, PWA (Manifest/SW), .env | Dependency & Environment Mgmt |
+<br>
 
-</div>
+**🎨 Frontend & UI**
+`JavaScript (AJAX/Fetch)` `Tailwind CSS` `Bootstrap`
+*Live Search & Dynamic Interface*
+
+<br>
+
+**🤖 AI Integration**
+`Claude API` `Google AI Studio` `Prompt Engineering`
+*Logic Validation & Rapid Prototyping*
+
+<br>
+
+**🔧 System & Ops**
+`Git/GitHub` `Composer` `PWA (Manifest/SW)` `.env`
+*Dependency & Environment Mgmt*
 
 <br>
 
@@ -71,29 +79,22 @@ I specialize in breaking down intricate problems, designing robust logic, and di
 
 <br>
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│   "Code syntax is a commodity; system logic, structural           │
-│    architecture, and intent-driven prompting are the             │
-│    true assets."                                                  │
-│                                                                   │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
+> **"Code syntax is a commodity; system logic, structural architecture, and intent-driven prompting are the true assets."**
 
 <br>
 
 I treat Artificial Intelligence as an engineering multiplier. My core strengths include:
 
-| # | Principle | Description |
-|:---:|:---|:---|
-| **01** | 🏗️ **Architectural Orchestration** | Managing the "Big Picture" to ensure AI-generated components are cohesive and scalable. |
-| **02** | 🔍 **Output Auditing** | Rigorously validating AI outputs for logic bottlenecks and security vulnerabilities. |
-| **03** | ⚡ **System Optimization** | Building tools and workflows that empower development within tight system constraints. |
+<br>
+
+**`01` 🏗️ Architectural Orchestration**
+Managing the "Big Picture" to ensure AI-generated components are cohesive and scalable.
+
+**`02` 🔍 Output Auditing**
+Rigorously validating AI outputs for logic bottlenecks and security vulnerabilities.
+
+**`03` ⚡ System Optimization**
+Building tools and workflows that empower development within tight system constraints.
 
 <br>
 
