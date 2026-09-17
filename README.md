@@ -108,7 +108,7 @@ Building tools and workflows that empower development within tight system constr
 
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:authorbe45@gmail.com)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2EA043?style=for-the-badge&logo=vercel&logoColor=white)](https://ajsk.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2EA043?style=for-the-badge&logo=vercel&logoColor=white)](https://ajisakha.site/)
 
 <br>
 
