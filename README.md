@@ -6,9 +6,10 @@
 
 <div align="center">
 
-# Hi 👋 I'm Muhammad Aji `authorbe` 🚀
+# Hi 👋 I'm Muhammad Aji Sakha `AuthorBe` 🚀
 
-### Logic Architect · AI Integrator · System Builder
+### Management Student · System Builder · AI-Assisted Developer
+📍 **Tangerang, Indonesia** &nbsp;|&nbsp; 🌐 [ajisakha.site](https://ajisakha.site/)
 
 </div>
 
@@ -16,13 +17,19 @@
 
 <div align="center">
 
-> *I transform complex challenges into practical digital solutions.*
+> *"Technology is not merely about code—it is about transforming real-world business and organizational challenges into purposeful digital solutions."*
 
 </div>
 
-My approach bypasses the limitations of manual syntax memorization by leveraging AI as a high-speed execution partner. This allows me to focus intensely on what truly matters: **system logic, database architecture, workflow efficiency, and modular stability.**
+<br>
 
-I specialize in breaking down intricate problems, designing robust logic, and directing advanced AI tools to build functional, production-ready software that delivers real-world impact.
+## 📌 About Me
+
+Grounded in the discipline of **Islamic Boarding School (Pesantren)** education and currently pursuing a **Bachelor of Management (S1 Manajemen)** at Universitas Muhammadiyah Tangerang, I operate at the intersection of **business logic, organizational workflows, and modern software development**.
+
+Rather than getting bogged down in repetitive boilerplate syntax, I leverage **AI as a high-speed execution partner and engineering multiplier**. This allows me to focus intensely on what creates true value: **understanding root problems, structuring database schemas, architecting clean business logic, and shipping reliable, production-ready systems.**
+
+From digitizing student disciplinary and reward management for an educational institution to building integrated ERP solutions for business operations, I build practical software engineered to eliminate operational bottlenecks and deliver measurable impact.
 
 <br>
 
@@ -32,44 +39,59 @@ I specialize in breaking down intricate problems, designing robust logic, and di
 
 <br>
 
-### 🔷 Logic-First Development
-Expert in architecting clean system structures and robust application workflows, primarily using the PHP ecosystem.
+### 🔷 Business & Workflow-First Architecture
+My background in management and organizational leadership drives me to design systems from the business process outward—modeling data structures and user journeys before writing code.
 
-### 🔷 AI Co-Piloting
-Specialist in engineering high-context technical prompts to drive LLMs for rapid prototyping, logic validation, and security auditing.
+### 🔷 AI-Assisted Engineering
+Specialist in high-context technical prompting, architectural direction, and rapid prototyping—directing LLMs to accelerate development velocity while maintaining strict code quality, security, and logic integrity.
 
-### 🔷 Operational Excellence
-Proven experience in deploying live web applications that automate operations and solve organizational bottlenecks.
+### 🔷 Real-World Operational Impact
+Proven track record of designing, building, and deploying live systems that solve real operational bottlenecks in educational institutions and enterprise environments.
 
 <br>
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## 💼 Featured Real-World Projects
 
 <br>
 
-**⚙️ Logic & Backend**
-`PHP (Procedural & Laravel)` `MySQL` `SQL`
-*Modular Architecture & DB Design*
+| Project | Description | Tech Stack | Highlights / Links |
+| :--- | :--- | :--- | :--- |
+| 🛡️ **AsuhTrack** | Digital student discipline & reward management platform for Ma'had Asy-Syathiby. Replaced manual paperwork with a centralized digital dashboard. | `PHP` `JavaScript` `CSS` `MySQL` | [Repository](https://github.com/syathiby/rekap-mukholif) · *In Active Production* |
+| 🏢 **KerenOne (ERP)** | Integrated enterprise resource planning system engineered for business operations, inventory tracking, and synchronized data flow. | `PHP` `PostgreSQL` `JavaScript` `Bootstrap` | [Repository](https://github.com/AuthorBe/kerensnack-erp.git) |
+| 🍽️ **SyathibyFood** | Digital ordering and canteen distribution management system designed to streamline daily meal provisioning in pesantren. | `PHP` `JavaScript` `CSS` `MySQL` | 🔒 *Private Repository* |
+| 💼 **SalaryApp** | Automated payroll management system built to simplify employee salary calculations and minimize administrative overhead. | `PHP` `JavaScript` `CSS` `MySQL` | [Repository](https://github.com/AuthorBe/salary.git) |
 
 <br>
 
-**🎨 Frontend & UI**
-`JavaScript (AJAX/Fetch)` `Tailwind CSS` `Bootstrap`
-*Live Search & Dynamic Interface*
+---
+
+## 🛠️ Tech Stack & Capabilities
 
 <br>
 
-**🤖 AI Integration**
-`Claude API` `Google AI Studio` `Prompt Engineering`
-*Logic Validation & Rapid Prototyping*
+**⚙️ Backend & Architecture**  
+`PHP (Laravel & Procedural)` `MySQL` `PostgreSQL` `REST APIs`  
+*Relational DB Modeling, Business Logic & Modular Architecture*
 
 <br>
 
-**🔧 System & Ops**
-`Git/GitHub` `Composer` `PWA (Manifest/SW)` `.env`
-*Dependency & Environment Mgmt*
+**🎨 Frontend & Interface**  
+`JavaScript (ES6+ / Fetch API)` `Tailwind CSS` `Bootstrap` `HTML5 / CSS3`  
+*Dynamic Dashboards, Responsive UI & Live Search*
+
+<br>
+
+**🤖 AI & Developer Velocity**  
+`AI-Assisted Development` `Prompt Engineering` `Claude API` `Google AI Studio`  
+*Architecture Validation, Rapid Prototyping & Logic Auditing*
+
+<br>
+
+**📊 Business & Leadership**  
+`Business Process Analysis` `Project Planning` `Product Thinking` `Public Speaking` `Mentorship`  
+*Bridging Business Objectives with Technical Implementation*
 
 <br>
 
@@ -79,22 +101,22 @@ Proven experience in deploying live web applications that automate operations an
 
 <br>
 
-> **"Code syntax is a commodity; system logic, structural architecture, and intent-driven prompting are the true assets."**
+> **"Code syntax is a commodity; system logic, structural architecture, and intent-driven direction are the true differentiators."**
 
 <br>
 
-I treat Artificial Intelligence as an engineering multiplier. My core strengths include:
+I treat Artificial Intelligence as an engineering multiplier to build better software, faster:
 
 <br>
 
-**`01` 🏗️ Architectural Orchestration**
-Managing the "Big Picture" to ensure AI-generated components are cohesive and scalable.
+**`01` 🏗️ Architectural Orchestration**  
+Managing the "Big Picture" to ensure system architecture, database models, and modular components are cohesive and scalable.
 
-**`02` 🔍 Output Auditing**
-Rigorously validating AI outputs for logic bottlenecks and security vulnerabilities.
+**`02` 🔍 Output Auditing**  
+Rigorously validating AI-generated code for logic bottlenecks, edge cases, and security vulnerabilities.
 
-**`03` ⚡ System Optimization**
-Building tools and workflows that empower development within tight system constraints.
+**`03` ⚡ Purpose-Driven Shipping**  
+Building software that directly solves operational friction and delivers concrete value in real-world environments.
 
 <br>
 
@@ -106,13 +128,17 @@ Building tools and workflows that empower development within tight system constr
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:authorbe45@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ajisakha.site-2EA043?style=for-the-badge&logo=vercel&logoColor=white)](https://ajisakha.site/)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-2EA043?style=for-the-badge&logo=vercel&logoColor=white)](https://ajisakha.site/)
+[![Email](https://img.shields.io/badge/EMAIL-muhammadajisakha354%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadajisakha354@gmail.com)
+&nbsp;&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2B6281528345958-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281528345958)
+&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-itsmzji-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsmzji/)
 
-<br>
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=authorbe&color=2EA043&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=AuthorBe&color=2EA043&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -121,5 +147,5 @@ Building tools and workflows that empower development within tight system constr
 ---
 
 <div align="center">
-  <sub>⚡ Engineered with logic. Amplified by AI. Built for impact.</sub>
+  <sub>⚡ Built with Purpose · Powered by Logic · Multiplied by AI ⚡</sub>
 </div>
