@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Hi 👋 I'm Muhammad Aji Sakha `AuthorBe` 🚀
+# Hi 👋 I'm Muhammad Aji `AuthorBe` 🚀
 
 ### Management Student · System Builder · AI-Assisted Developer
 📍 **Tangerang, Indonesia** &nbsp;|&nbsp; 🌐 [ajisakha.site](https://ajisakha.site/)
@@ -58,7 +58,7 @@ Proven track record of designing, building, and deploying live systems that solv
 
 | Project | Description | Tech Stack | Highlights / Links |
 | :--- | :--- | :--- | :--- |
-| 🛡️ **AsuhTrack** | Digital student discipline & reward management platform for Ma'had Asy-Syathiby. Replaced manual paperwork with a centralized digital dashboard. | `PHP` `JavaScript` `CSS` `MySQL` | [Repository](https://github.com/syathiby/rekap-mukholif) · *In Active Production* |
+| 🛡️ **AsuhTrack** | Digital student discipline & reward management platform for Ma'had Asy-Syathiby. Replaced manual paperwork with a centralized digital dashboard. | `PHP` `JavaScript` `CSS` `MySQL` | [Repository](https://github.com/syathiby/rekap-mukholif) |
 | 🏢 **KerenOne (ERP)** | Integrated enterprise resource planning system engineered for business operations, inventory tracking, and synchronized data flow. | `PHP` `PostgreSQL` `JavaScript` `Bootstrap` | [Repository](https://github.com/AuthorBe/kerensnack-erp.git) |
 | 🍽️ **SyathibyFood** | Digital ordering and canteen distribution management system designed to streamline daily meal provisioning in pesantren. | `PHP` `JavaScript` `CSS` `MySQL` | 🔒 *Private Repository* |
 | 💼 **SalaryApp** | Automated payroll management system built to simplify employee salary calculations and minimize administrative overhead. | `PHP` `JavaScript` `CSS` `MySQL` | [Repository](https://github.com/AuthorBe/salary.git) |
@@ -130,11 +130,8 @@ Building software that directly solves operational friction and delivers concret
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-ajisakha.site-2EA043?style=for-the-badge&logo=vercel&logoColor=white)](https://ajisakha.site/)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-muhammadajisakha354%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadajisakha354@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-muhammadajisakha354%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:authorbe45@gmail.com@)
 &nbsp;&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-%2B6281528345958-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281528345958)
-&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-itsmzji-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsmzji/)
 
 <br><br>
 
