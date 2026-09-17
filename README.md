@@ -130,10 +130,8 @@ Building software that directly solves operational friction and delivers concret
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-ajisakha.site-2EA043?style=for-the-badge&logo=vercel&logoColor=white)](https://ajisakha.site/)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-muhammadajisakha354%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:authorbe45@gmail.com@)
+[![Email](https://img.shields.io/badge/EMAIL-authorbe45%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:authorbe45@gmail.com@)
 &nbsp;&nbsp;
-
-<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AuthorBe&color=2EA043&style=for-the-badge&label=PROFILE+VIEWS)
 
